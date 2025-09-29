@@ -1,6 +1,7 @@
 # sjtu-ip-law-minor
 This repository is for the "Intellectual Property Law" minor program at SJTU. 这个仓库是上海交通大学知识产权辅修专业的资料合集
 
+声明：仓库中部分资料来自传承交大和z-library
 
 ## 辅修课程概况
 
